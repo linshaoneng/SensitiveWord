@@ -1,5 +1,5 @@
 {
-  "name": "linshaoneng/SensitiveWord",
+  "name": "linshaoneng/sensitive-word",
   "description": "Using DFA algorithm to check whether sensitive words are included",
   "minimum-stability": "stable",
   "license": "proprietary",

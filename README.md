@@ -3,7 +3,7 @@
 
 ## 安装/Installation
 ```bash
-$ composer require linshaoneng\Sensitive
+$ composer require linshaoneng/sensitive-word
 ```
 
 ## 使用方法 $badWords 为需要检查的敏感词/Basic Usage
